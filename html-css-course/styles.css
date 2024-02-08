@@ -1,0 +1,27 @@
+.amazon_a{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    font-weight: 300;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    border: none;
+    margin-right: 4px;
+    cursor: pointer;
+}
+.amazon_b{
+    background-color: rgb(255, 164, 28);
+    color: black;
+    font-weight: 300;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    margin-left: 4px;
+}
+
+.price{
+    color: green;
+    font-weight: bold;
+}
